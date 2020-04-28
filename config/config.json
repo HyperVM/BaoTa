@@ -1,8 +1,8 @@
 {
   "language": "Simplified_Chinese",
-  "title": "宝塔Linux面板",
-  "brand": "宝塔",
-  "product": "Linux面板",
+  "title": "Pagoda Linux Panel",
+  "brand": "Pagoda",
+  "product": "Linux Pagoda",
   "home": "http://www.bt.cn",
   "root_path": "/www",
   "setup_path": "/www/server",
